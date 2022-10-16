@@ -17,7 +17,6 @@
         "variants": ["distance", "time", "brightness"],
         "correct": 0
       },
-  
       {
         "id": 4,
         "title": "What is the name of the North Star?",
@@ -29,5 +28,23 @@
         "title": "What is the name of the nearest galaxy to Earth?",
         "variants": ["Auriga","Andromeda","Polaris"],
         "correct": 1
-        }
+        },
+      {
+        "id": 6,
+        "title": "Which planet has the most moons?",
+        "variants": ["Jupiter","Venus","Mercury"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "title": "What is a nebula?",
+        "variants": ["a crashed comet", "a cloud of space dust","a burned out star"],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "title": "Which of the following best describes a supernova?",
+        "variants": ["a fast-moving meteor","a pair of conjoined stars", "a bright explosion"],
+        "correct": 2
+      }
 ]
