@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "How many constellations are officially recognized?",
+        "variants": [12, 88, "over a million"],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "title": "What space objects can create craters on the surface of the Earth?",
+        "variants": ["asteroids", "meteorites", "meteors"],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "title": "What does a light-year measure?",
+        "variants": ["distance", "time", "brightness"],
+        "correct": 0
+      },
+  
+      {
+        "id": 4,
+        "title": "What is the name of the North Star?",
+        "variants": ["Parallax", "Vega", "Polaris"],
+        "correct": 2
+      },
+      {
+        "id": 5,
+        "title": "What is the name of the nearest galaxy to Earth?",
+        "variants": ["Auriga","Andromeda","Polaris"],
+        "correct": 1
+        }
+]
